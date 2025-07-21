@@ -1,5 +1,3 @@
-A README file is a crucial document that provides an overview, instructions, and guidelines for using a software project. It serves as the project's entry poA README file is a crucial document that provides an overview, instructions, and guidelines for using a software project. It serves as the project's entry point for users and contributors. README files are typically written in a simple, easy-to-read format like Markdown, a lightweight markup language. Below is an explanation of the README file structure and syntax based on Markdown, the most commonly used format:
-
 ### Structure
 
 #### 1. Project Title
