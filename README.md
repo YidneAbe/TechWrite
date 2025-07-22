@@ -1,5 +1,4 @@
 ### Structure
-
 #### 1. Project Title
 - The title should be at the top, centered, and styled to stand out (often using `#` for heading level 1).
 
